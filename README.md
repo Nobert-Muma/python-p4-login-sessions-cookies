@@ -1,4 +1,4 @@
-# Cookies and Sessions
+# Cookies and Sessions.
 
 ## Learning Goals
 
